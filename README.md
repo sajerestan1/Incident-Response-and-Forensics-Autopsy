@@ -146,19 +146,21 @@ Mini Scenario: An employee was suspected of leaking company data. A disk image w
 
     Answer: March 25, 2015
 
-Conclusion
+### Conclusion
 
 The investigation into the suspected employee provided significant insights into the use of Autopsy for digital forensics. Through detailed analysis of the disk image, I was able to uncover various artifacts, including the use of a secure network drive to access SECRET files, suspicious web searches related to anti-forensic tools, and the presence of a program called Eraser, which could be used to securely delete files. These findings suggest that the employee may have been involved in data leakage activities.
 Experience Gained
 
-    Forensic Investigation: I gained hands-on experience in conducting a forensic investigation using Autopsy, from analyzing disk images to uncovering key evidence.
-    Data Analysis: I improved my skills in analyzing digital artifacts, such as web search histories, file removals, and installed programs, which are crucial in digital forensics.
-    Problem Solving: The challenges I faced, especially in locating specific artifacts and generating reports, honed my problem-solving abilities and underscored the importance of persistence and attention to detail in forensic investigations.
+### Forensic Investigation: 
 
-Benefits
+I gained hands-on experience in conducting a forensic investigation using Autopsy, from analyzing disk images to uncovering key evidence.
+Data Analysis: I improved my skills in analyzing digital artifacts, such as web search histories, file removals, and installed programs, which are crucial in digital forensics.
+Problem Solving: The challenges I faced, especially in locating specific artifacts and generating reports, honed my problem-solving abilities and underscored the importance of persistence and attention to detail in forensic investigations.
 
-    Enhanced Skills: This project significantly enhanced my digital forensics skills, especially in the use of Autopsy for investigating disk images and analyzing complex data sets.
-    Practical Experience: By working on a realistic scenario, I gained practical experience that will be invaluable in my career as a cybersecurity analyst.
-    Critical Thinking: The need to think critically and solve problems under pressure has prepared me for real-world challenges in the field of digital forensics.
+### Benefits
+
+ Enhanced Skills: This project significantly enhanced my digital forensics skills, especially in the use of Autopsy for investigating disk images and analyzing complex data sets.
+ Practical Experience: By working on a realistic scenario, I gained practical experience that will be invaluable in my career as a cybersecurity analyst.
+ Critical Thinking: The need to think critically and solve problems under pressure has prepared me for real-world challenges in the field of digital forensics.
 
 This project has brought me closer to completing the SOC Level 1 path, and I am eager to apply the knowledge and skills gained to future investigations and challenges.
